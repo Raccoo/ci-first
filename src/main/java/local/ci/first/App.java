@@ -13,6 +13,6 @@ public class App {
     }
 
      public int calc(int n) {
-         return 9;
+         return n * n;
      }
 }
